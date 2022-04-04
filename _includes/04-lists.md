@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1.  Coffee
+2.  Beer
+3.  Whiskey
+    - Maker's Mark
+    - Bulleit
+    - Four Roses
